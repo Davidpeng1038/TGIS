@@ -1,0 +1,3 @@
+Failures: 12/22 (Taipei, Nangang, Banqiao, Hsinchu, Miaoli, Keelung, Taitung, Pingtung, Songshan, Changhua, Yunlin, Chiayi).
+22-area MAE reduction after removing station-area mean residual: 53.2% (mean of per-area reductions 35.6%); mean within-area Spearman 0.722.
+Share of unit prices above the training 99th percentile: Taipei 48.1%, Songshan 37.7%.

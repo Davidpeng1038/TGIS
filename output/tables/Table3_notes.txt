@@ -1,0 +1,2 @@
+Oracle level correction: 20.2 / 0.33.
+Weighted retraining k = 30 vs k = 0: MAPE reduction 14.4 percentage points [8.6, 20.9] (station bootstrap, 10,000 resamples).

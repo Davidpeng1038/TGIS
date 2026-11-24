@@ -1,0 +1,4 @@
+Test set n = 46,365 (from 2023-06-06).
+Taiwan LOSAO (full period): unit mean R² = -0.67, median = -0.14, mean MAPE = 36.9%, failures = 12/22.
+California LOCO: unit mean R² = -0.78, median = -0.17, mean MAPE = 33.3%, failures = 17/29.
+Residual Moran's I (test set, k = 10): random five-fold = 0.212, spatial-block = 0.476.

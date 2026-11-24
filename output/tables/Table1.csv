@@ -1,0 +1,9 @@
+Validation design,Taiwan R²,Taiwan MAPE (%),California R²,California MAPE (%)
+Random five-fold,0.878,13.22,0.763,18.11
+Location-grouped five-fold,0.855,14.141,,
+Spatial-block five-fold,0.794,16.735,0.727,20.092
+Temporal holdout (final 20%),0.793,16.688,,
+Rolling origin (2018–2026),0.838,14.912,,
+Leave-one-city-out,0.013,28.202,,
+Leave-one-group-out (station area / county),-0.08,27.418,-0.361,39.302
+Leave-one-group-out + future period,-0.249,31.059,,
