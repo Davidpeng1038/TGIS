@@ -10,6 +10,12 @@
   ],
   "license": "MIT",
   "access_right": "open",
-  "version": "1.0.0",
-  "keywords": ["GeoAI", "spatial validation", "housing price", "LightGBM", "transit-oriented development", "area of applicability"]
+  "keywords": [
+    "GeoAI",
+    "spatial validation",
+    "housing price",
+    "LightGBM",
+    "transit-oriented development",
+    "area of applicability"
+  ]
 }

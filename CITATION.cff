@@ -6,8 +6,9 @@ authors:
   - family-names: Peng
     given-names: Shih-Che
     orcid: "https://orcid.org/0009-0003-9048-0959"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-24
+doi: 10.5281/zenodo.24489743
 license: MIT
 repository-code: "https://github.com/Davidpeng1038/TGIS"
 keywords:

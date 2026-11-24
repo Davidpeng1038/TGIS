@@ -1,5 +1,7 @@
 # Code for Figures 1–4 and Tables 1–3 (GeoAI deployment-matched validation, V2.1)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24489743.svg)](https://doi.org/10.5281/zenodo.24489743)
+
 Run everything with `python run_all.py` (Python 3.11+, about 35 minutes on a two-core machine); `python run_all.py table2` resumes from a given step.
 
 ```
@@ -59,3 +61,9 @@ Shared settings (feature sets F0/F2, LightGBM hyperparameters, seeds 0 and 1, me
   slightly from the manuscript.
 * AOA (Table 2) uses a 40,000-transaction reference subsample of the training areas for nearest-neighbour
   distances; the training-DI threshold is computed across training areas (area-grouped CV).
+
+## Citation
+
+Peng, S.-C. (2026). *TGIS: Code and data for GeoAI deployment-matched validation (Figures 1–4, Tables 1–3)* (v1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24489744
+
+All versions: https://doi.org/10.5281/zenodo.24489743
