@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TGIS: Code and data for GeoAI deployment-matched validation (Figures 1–4, Tables 1–3)"
+type: software
+authors:
+  - family-names: Peng
+    given-names: Shih-Che
+    orcid: "https://orcid.org/0009-0003-9048-0959"
+version: 1.0.0
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/Davidpeng1038/TGIS"
+keywords:
+  - GeoAI
+  - spatial validation
+  - housing price
+  - LightGBM
+  - transit-oriented development
+  - area of applicability
